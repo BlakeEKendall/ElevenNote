@@ -44,7 +44,7 @@ namespace ElevenNote.Services
                             e =>
                                 new NoteListItem
                                 {
-                                    NoteId = e.NoteId,
+                                    NoteID = e.NoteId,
                                     Title = e.Title,
                                     CreatedUtc = e.CreatedUtc
                                 }
@@ -55,5 +55,5 @@ namespace ElevenNote.Services
         }
     }
 }
-    }
-}
+    
+
