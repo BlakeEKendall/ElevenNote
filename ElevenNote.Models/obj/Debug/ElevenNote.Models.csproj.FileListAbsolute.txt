@@ -1,0 +1,16 @@
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
