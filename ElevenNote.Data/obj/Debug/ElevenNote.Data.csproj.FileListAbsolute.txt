@@ -33,3 +33,8 @@ C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenN
 C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Cors.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.xml

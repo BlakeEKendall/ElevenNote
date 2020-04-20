@@ -20,3 +20,17 @@ C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Ele
 C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Owin.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Cors.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\Users\Blake Kendall\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.xml
